@@ -27,8 +27,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@haixing_hu/pinia-decorator": "^1.0.0",
-    "@haixing_hu/vue3-class-component": "^1.1.4",
+    "@haixing_hu/pinia-decorator": "^1.2.1",
+    "@haixing_hu/vue3-class-component": "^1.5.1",
     "core-js": "^3.33.0",
     "pinia": "^2.1.6",
     "vue": "^3.3.4"
